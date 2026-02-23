@@ -3,10 +3,8 @@
 
 ## Overview
 
-This project presents an end-to-end financial analysis of Infosys Ltd. using SQL for structured data analysis and Power BI for interactive visualization. The objective was to evaluate the company’s growth, profitability, and earnings quality using real-world financial analytics techniques similar to those used by financial analysts and consulting professionals.
-
-The project combines database querying, financial ratio analysis, and business storytelling through dashboards to simulate an analyst-style case study.
-
+This project presents an end-to-end financial analysis of Infosys Ltd. using SQL for structured data analysis and Power BI for interactive visualization. The objective was to evaluate the company’s growth, profitability, and earnings quality using real-world financial analytics techniques.
+The project combines database querying, financial ratio analysis, and business storytelling through dashboards.
 
 ## Objectives
 
@@ -16,10 +14,6 @@ The project combines database querying, financial ratio analysis, and business s
 * Build an executive-level Power BI dashboard
 * Convert raw data into business insights
 
-
-## Dataset
-
-The dataset includes key financial metrics compiled from publicly available sources such as annual reports and financial disclosures.
 
 **Key Fields:**
 
@@ -70,31 +64,6 @@ The financial analysis was conducted using structured SQL queries covering:
 * Revenue CAGR
 * Profit CAGR
 
-The SQL layer formed the analytical backbone of the project.
-
-
-
-## SQL Analysis Snapshot
-
-<img width="1378" height="712" alt="image" src="https://github.com/user-attachments/assets/6f2a1e06-032a-49ef-933b-8bf886f5f615" />
-
-
---
-
-
-<img width="1333" height="651" alt="image" src="https://github.com/user-attachments/assets/dd3bdd65-6ce5-4cc7-9099-b257a80afa30" />
-
-
---
-
-
-<img width="1323" height="567" alt="image" src="https://github.com/user-attachments/assets/9a8b1895-87b5-4608-bfaf-f18f4076b821" />
-
-
-
-
-
-
 ## Power BI Dashboard
 
 The SQL insights were transformed into an interactive Power BI dashboard designed for executive storytelling and decision support.
@@ -106,19 +75,6 @@ The SQL insights were transformed into an interactive Power BI dashboard designe
 * Operating margin trend visualization
 * YoY growth analysis
 * CAGR comparison charts
-* Revenue Growth Bridge (Waterfall chart)
-
-### Advanced Features
-
-* Slicer-aware and fixed KPIs
-* Custom finance theme
-* Executive-style layout and naming system
-
-
-
-## Key Insights & Results
-
-This project produced several meaningful insights derived from structured SQL analysis and visual interpretation through Power BI.
 
 ### Growth Results
 
