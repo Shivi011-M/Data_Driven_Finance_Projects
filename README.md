@@ -127,7 +127,9 @@ The analysis suggests that Infosys operates as a high-quality compounder with pr
 
 ## Dashboard Preview
 
-<img width="1530" height="760" alt="image" src="https://github.com/user-attachments/assets/d31065b5-30b9-4da6-aa23-8d4a675c8587" />
+
+<img width="1350" height="738" alt="image" src="https://github.com/user-attachments/assets/b6417774-f19b-4198-8d7a-915a2a8dca72" />
+
 
 
 
